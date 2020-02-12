@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://think-make-start.github.io/about/index.html</loc>
+    
+    <lastmod>2020-02-12T23:22:44.257Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://think-make-start.github.io/2020/02/12/daily-life/</loc>
+    
+    <lastmod>2020-02-12T22:46:50.375Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://think-make-start.github.io/contact/index.html</loc>
+    
+    <lastmod>2020-02-12T22:35:50.881Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://think-make-start.github.io/2020/02/12/2017-conclusion/</loc>
     
     <lastmod>2020-02-11T23:54:03.668Z</lastmod>
@@ -23,13 +44,6 @@
   </url>
   
   <url>
-    <loc>https://think-make-start.github.io/contact/index.html</loc>
-    
-    <lastmod>2020-02-11T17:32:35.384Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://think-make-start.github.io/categories/index.html</loc>
     
     <lastmod>2020-02-11T17:32:35.382Z</lastmod>
@@ -40,13 +54,6 @@
     <loc>https://think-make-start.github.io/archives/index.html</loc>
     
     <lastmod>2020-02-11T17:32:35.380Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://think-make-start.github.io/about/index.html</loc>
-    
-    <lastmod>2020-02-11T17:32:35.378Z</lastmod>
     
   </url>
   
