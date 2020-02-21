@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://think-make-start.github.io/"/>
-  <updated>2020-02-18T21:26:56.584Z</updated>
+  <updated>2020-02-21T20:42:43.818Z</updated>
   <id>https://think-make-start.github.io/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>（涡扇）涡轮喷气发动机</title>
+    <title>文献阅读： 航空航天发动机轴承的可靠性和效能发展</title>
+    <link href="https://think-make-start.github.io/2020/02/21/the-evolution-of-reliability-and-efficiency-of-aerospace-bearing-systems/"/>
+    <id>https://think-make-start.github.io/2020/02/21/the-evolution-of-reliability-and-efficiency-of-aerospace-bearing-systems/</id>
+    <published>2020-02-21T19:54:51.000Z</published>
+    <updated>2020-02-21T20:42:43.818Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;The Evolution of Reliability and Efficiency of Aerospace Bearing Systems&lt;br&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="航空发动机主轴轴承" scheme="https://think-make-start.github.io/categories/%E8%88%AA%E7%A9%BA%E5%8F%91%E5%8A%A8%E6%9C%BA%E4%B8%BB%E8%BD%B4%E8%BD%B4%E6%89%BF/"/>
+    
+    
+      <category term="航空发动机主轴轴承" scheme="https://think-make-start.github.io/tags/%E8%88%AA%E7%A9%BA%E5%8F%91%E5%8A%A8%E6%9C%BA%E4%B8%BB%E8%BD%B4%E8%BD%B4%E6%89%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>（涡扇）涡轮喷气发动机 Turbo Fan engine</title>
     <link href="https://think-make-start.github.io/2020/02/18/jet-engine/"/>
     <id>https://think-make-start.github.io/2020/02/18/jet-engine/</id>
     <published>2020-02-18T20:44:35.000Z</published>
-    <updated>2020-02-18T21:26:56.584Z</updated>
+    <updated>2020-02-19T14:13:16.581Z</updated>
     
     <summary type="html">
     
