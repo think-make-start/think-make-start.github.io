@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://think-make-start.github.io/"/>
-  <updated>2020-02-21T20:42:43.818Z</updated>
+  <updated>2020-02-23T13:29:40.666Z</updated>
   <id>https://think-make-start.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>残余应力</title>
+    <link href="https://think-make-start.github.io/2020/02/23/residsual-stress/"/>
+    <id>https://think-make-start.github.io/2020/02/23/residsual-stress/</id>
+    <published>2020-02-23T12:44:32.000Z</published>
+    <updated>2020-02-23T13:29:40.666Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-什么是残余应力&quot;&gt;&lt;a href=&quot;#1-什么是残余应力&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="材料" scheme="https://think-make-start.github.io/categories/%E6%9D%90%E6%96%99/"/>
+    
+    
+      <category term="残余应力" scheme="https://think-make-start.github.io/tags/%E6%AE%8B%E4%BD%99%E5%BA%94%E5%8A%9B/"/>
+    
+  </entry>
   
   <entry>
     <title>文献阅读： 航空航天发动机轴承的可靠性和效能发展</title>
