@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://think-make-start.github.io/"/>
-  <updated>2020-02-24T22:12:25.720Z</updated>
+  <updated>2020-02-25T17:41:32.461Z</updated>
   <id>https://think-make-start.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>文献回顾：球体与刚性平板的弹塑性接触分析</title>
+    <link href="https://think-make-start.github.io/2020/02/25/wen-xian-hui-gu-qiu-ti-yu-gang-xing-ping-ban-de-dan-su-xing-jie-hong-fen-xi/"/>
+    <id>https://think-make-start.github.io/2020/02/25/wen-xian-hui-gu-qiu-ti-yu-gang-xing-ping-ban-de-dan-su-xing-jie-hong-fen-xi/</id>
+    <published>2020-02-25T16:51:30.000Z</published>
+    <updated>2020-02-25T17:41:32.461Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;Elastic-Plastic Contact Analysis of a Sphere and a Rigid Flat&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;球体与刚性平板的弹塑性接触分析 2002&lt;/strong&gt;&lt;br&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="接触" scheme="https://think-make-start.github.io/categories/%E6%8E%A5%E8%A7%A6/"/>
+    
+    
+      <category term="球盘接触" scheme="https://think-make-start.github.io/tags/%E7%90%83%E7%9B%98%E6%8E%A5%E8%A7%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>文献回顾： 球与平面的弹塑性接触的综合研究</title>

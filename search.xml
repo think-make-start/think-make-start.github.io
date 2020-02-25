@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>文献回顾：球体与刚性平板的弹塑性接触分析</title>
+      <link href="/2020/02/25/wen-xian-hui-gu-qiu-ti-yu-gang-xing-ping-ban-de-dan-su-xing-jie-hong-fen-xi/"/>
+      <url>/2020/02/25/wen-xian-hui-gu-qiu-ti-yu-gang-xing-ping-ban-de-dan-su-xing-jie-hong-fen-xi/</url>
+      
+        <content type="html"><![CDATA[<p><strong>Elastic-Plastic Contact Analysis of a Sphere and a Rigid Flat</strong><br><strong>球体与刚性平板的弹塑性接触分析 2002</strong><br><a href="https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/69/5/657/445187/Elastic-Plastic-Contact-Analysis-of-a-Sphere-and-a?redirectedFrom=fulltext" target="_blank" rel="noopener">https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/69/5/657/445187/Elastic-Plastic-Contact-Analysis-of-a-Sphere-and-a?redirectedFrom=fulltext</a><br><em><em>Izhak Etsion </em></em><br><a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=WvYMaxgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener">https://scholar.google.com/citations?hl=zh-CN&amp;user=WvYMaxgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate</a><br><a href="https://meeng.technion.ac.il/members/izhak-etsion/" target="_blank" rel="noopener">https://meeng.technion.ac.il/members/izhak-etsion/</a></p><h1 id="摘要及结论"><a href="#摘要及结论" class="headerlink" title="摘要及结论"></a>摘要及结论</h1><hr><ul><li><p>建立了可变形球体在刚性平板作用下无摩擦接触的弹塑性有限元模型， 即<strong>Flattening model 的弹塑性接触模型</strong>。</p></li><li><p>分析了弹塑性接触在干涉作用下的演化过程，揭示了<strong>从全弹性到弹塑性再到全塑性接触界面的三个不同阶段。</strong></p></li><li><p>该模型提供了<strong>接触载荷、接触面积和平均接触压力的无量纲表达式</strong>，涵盖了<strong>从初始屈服到球面接触区完全塑性状态的大范围变形值</strong>。与以往基于任意假设的弹塑性模型进行了比较，结果表明两者存在较大差异。</p></li><li><p>本文利用弹性和塑性本构关系，给出了可变形球体与刚性平板的弹塑性接触问题的精确有限元解法。它还提供了一个<strong>通用的无量纲解决方案，不局限于特定的材料或几何形状</strong>。</p></li><li><p>考虑变形过程的实际本构关系，采用有限元法求解了可变形球体与刚性平板的弹塑性接触问题，用Flattening model，即刚性平板压弹塑性的半球。因此，目前的模型比以前的模型要精确得多，以前的模型依赖于关于临界干涉之上的接触压力分布或塑性区演化的不切实际的假设。通过适当地将接触载荷、接触面积和平均接触压力归一化，本模型提供了简单的解析表达式，将经典的赫兹解法扩展到全塑性接触。</p></li><li><p>根据有限元计算结果，提出了无量纲接触面积、无量纲接触载荷与w/wc的比值的曲线拟合关系。</p></li></ul><h1 id="思维导图"><a href="#思维导图" class="headerlink" title="思维导图"></a>思维导图</h1><hr><p><img src="00.jpg" alt></p><h1 id="其他插图"><a href="#其他插图" class="headerlink" title="其他插图"></a>其他插图</h1><hr><p><img src="01.png" alt><br>Flattening model<br><img src="02.png" alt><br>变形量w与特征变形量wc之比的值与接触半径r/曲率半径a比值的关系。<strong>从示意图角度给出了弹性和弹塑性在接触中的位置。</strong></p><p><img src="04.png" alt><br>变形量w与特征变形量wc之比的值与无量纲平均接触压力之间的关系。<strong>FEM结果与其他两种方法Zhao et al和CEB结果的对比</strong><br><img src="05.png" alt><br>变形量w与特征变形量wc之比的值与无量纲接触面积之间的关系。FEM结果与其他两种方法Zhao et al和CEB的对比<br><img src="06.png" alt><br>变形量w与特征变形量wc之比的值与无量纲接触载荷之间的关系。FEM结果与其他两种方法Zhao et al和CEB结果的对比</p><h1 id="本文简评"><a href="#本文简评" class="headerlink" title="本文简评"></a>本文简评</h1><hr><ul><li><strong>给出了Flattening接触模型的全弹性到全塑性接触的全过程分析</strong>。最主要的参数：变形量w与特征变形量wc之比的值，与接触半径r/曲率半径a的比值、无量纲平均接触载荷、无量纲的接触面积、无量纲的半径坐标之间的关系；</li><li>本文模型简单，仅研究Flattening model的接触，从弹性到弹塑性的变化过程，其中<strong>最重要的参数就是变形量w与特征变形量wc之比的值</strong>，这个值是弹性、弹塑性的分界值，贯穿全文；</li><li>本文<strong>未考虑粗糙表面情况；</strong></li><li>本文给出了FEM建模方法，当然由于是2002年的文献，因此FEM建模方式可能与目前的发展不同，这方面我还不太了解；</li><li>本文<strong>引用和给出了一些经验公式</strong>，比如critical interference是从弹性状态向弹塑性变形的转变wc的经验公式； 平均接触载荷pe的经验公式； 接触力Pe的经验公式；根据FEM计算结果，<strong>拟合出了Dimensionless Interference 与 Dimensionless contact area，Dimensionless Interference与Dimensionless contact force 两条曲线的拟合公式。</strong></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 接触 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 球盘接触 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>文献回顾： 球与平面的弹塑性接触的综合研究</title>
       <link href="/2020/02/24/literature-review/"/>
       <url>/2020/02/24/literature-review/</url>
