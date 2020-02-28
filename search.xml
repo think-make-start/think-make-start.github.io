@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>文献回顾：三维弹塑性接触硬化行为的数值模拟</title>
+      <link href="/2020/02/28/wen-xian-hui-gu-san-wei-dan-su-xing-jie-hong-ying-hua-xing-wei-de-shu-zhi-mo-ni/"/>
+      <url>/2020/02/28/wen-xian-hui-gu-san-wei-dan-su-xing-jie-hong-ying-hua-xing-wei-de-shu-zhi-mo-ni/</url>
+      
+        <content type="html"><![CDATA[<p><strong>Numerical Simulation for Three Dimensional Elastic-Plastic Contact With Hardening Behavior</strong></p><p><strong>三维弹塑性接触硬化行为的数值模拟</strong> </p><p><a href="https://asmedigitalcollection.asme.org/tribology/article-abstract/127/3/494/446856/Numerical-Simulation-for-Three-Dimensional-Elastic?redirectedFrom=fulltext" target="_blank" rel="noopener">https://asmedigitalcollection.asme.org/tribology/article-abstract/127/3/494/446856/Numerical-Simulation-for-Three-Dimensional-Elastic?redirectedFrom=fulltext</a></p><p><strong>Leon M. Keer 2005</strong></p><h1 id="摘要和结论："><a href="#摘要和结论：" class="headerlink" title="摘要和结论："></a>摘要和结论：</h1><hr><p>采用改进的半解析方法，建立了弹塑性接触问题的求解方法和程序代码。利用开发的EPC代码，模拟了不同强化行为下的压痕试验。得到了接触压力、残余应力和塑性应变的分布，并与未硬化的有限元模型进行了比较。利用快速傅里叶变换和快速收敛等技术提高了计算速度。</p><p>本文开发了一种模拟三维弹塑性接触的程序。由于总表面挠度是由接触压力和塑性应变引起的，因此采用了迭代法。迭代计算<strong>纯弹性接触</strong>和<strong>塑性应变</strong>的影响，直到满足收敛性。通过计算，得到了<strong>接触体内残余应力</strong>和<strong>塑性应变</strong>的详细分布。EPC代码<strong>可模拟不同硬化行为的材料</strong>，这是其他SAM代码的一个优点。使用FFT和FCM技术来提高计算速度。用开发的EPC代码模拟压痕试验。得到了<strong>接触体内的冯米赛斯应力</strong>、<strong>塑性应变</strong>和<strong>残余应力</strong>的分布。将<strong>不同强化模型的压力曲线</strong>和<strong>塑性区</strong>与<strong>未强化的有限元模型进行了比较</strong>。<strong>研究发现，对于弹塑性接触，硬化行为是非常重要的，必须加以考虑。材料的高硬化将导致更大的最大压力和更小的塑性区域。</strong></p><h1 id="思维导图："><a href="#思维导图：" class="headerlink" title="思维导图："></a>思维导图：</h1><hr><p><img src="00.jpg" alt></p><h1 id="文中图片："><a href="#文中图片：" class="headerlink" title="文中图片："></a>文中图片：</h1><hr><p><img src="01.png" alt><br><img src="02.png" alt><br><img src="03.png" alt><br><img src="04.png" alt><br><img src="05.png" alt><br><img src="12.png" alt><br><img src="06.png" alt><br><img src="07.png" alt><br><img src="08.png" alt><br><img src="09.png" alt><br><img src="10.png" alt><br><img src="11.png" alt></p><h1 id="文献简评："><a href="#文献简评：" class="headerlink" title="文献简评："></a>文献简评：</h1><hr><ol><li><p>介绍了<strong>半空间解析法Semi-analytical method（SAM）</strong>的原理和经验公式；引入<strong>FFT和 fast convergence method（FCM）</strong>两种方法提高计算速度；</p></li><li><p>在全弹性到塑性之间的过渡状态，即弹塑性状态进行了深入的研究。<strong>比较了两种硬化模型（Swift and linear hardening）、全弹性接触之间的区别</strong>，体现在接触载荷形状不再服从于赫兹接触，并且两种硬化模型之间的计算结果还存在差异；</p></li><li><p><strong>本文引用的两种硬化模型的经验公式，未来需要，可直接引用本文；</strong></p></li><li><p>本文并未涉及粗糙表面的研究；</p></li><li><p>在目前所理解的范围内，半解析法的缺点是，<strong>半解析法只能计算较小的接触区域：</strong>与有限元相比，研究接触的范围/区域太小了。<strong>增加粗糙表面后，计算规模会大幅增大，计算时间也会更长；</strong></p></li><li><p>引入FFT的目的是<strong>提高应变和应力的计算速度</strong>；引入FCM的目的是<strong>减少计算循环的次数；</strong></p></li><li><p>Fourier Transform是一种连乘关系，将时域转换到频域。卷积，一个时域中的卷积对应于另一个域中的乘积，如时域中的卷积对应于频域中的乘积。引入FFT技术，提高变形量wi和应力δi的计算速度。</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 接触 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 球盘接触 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>跨国寄口罩</title>
       <link href="/2020/02/28/kua-guo-ji-kou-zhao/"/>
       <url>/2020/02/28/kua-guo-ji-kou-zhao/</url>

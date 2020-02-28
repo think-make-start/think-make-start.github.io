@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://think-make-start.github.io/"/>
-  <updated>2020-02-28T11:54:56.757Z</updated>
+  <updated>2020-02-28T22:59:58.431Z</updated>
   <id>https://think-make-start.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>文献回顾：三维弹塑性接触硬化行为的数值模拟</title>
+    <link href="https://think-make-start.github.io/2020/02/28/wen-xian-hui-gu-san-wei-dan-su-xing-jie-hong-ying-hua-xing-wei-de-shu-zhi-mo-ni/"/>
+    <id>https://think-make-start.github.io/2020/02/28/wen-xian-hui-gu-san-wei-dan-su-xing-jie-hong-ying-hua-xing-wei-de-shu-zhi-mo-ni/</id>
+    <published>2020-02-28T22:31:24.000Z</published>
+    <updated>2020-02-28T22:59:58.431Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;Numerical Simulation for Three Dimensional Elastic-Plastic Contact With Hardening
+        
+      
+    
+    </summary>
+    
+      <category term="接触" scheme="https://think-make-start.github.io/categories/%E6%8E%A5%E8%A7%A6/"/>
+    
+    
+      <category term="球盘接触" scheme="https://think-make-start.github.io/tags/%E7%90%83%E7%9B%98%E6%8E%A5%E8%A7%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>跨国寄口罩</title>
@@ -73,7 +99,7 @@
     <link href="https://think-make-start.github.io/2020/02/24/literature-review/"/>
     <id>https://think-make-start.github.io/2020/02/24/literature-review/</id>
     <published>2020-02-24T21:09:31.000Z</published>
-    <updated>2020-02-24T22:12:25.720Z</updated>
+    <updated>2020-02-28T23:00:28.991Z</updated>
     
     <summary type="html">
     
